@@ -26152,7 +26152,7 @@ return A.Y($async$asb,r)},
 Zk(){var s=0,r=A.Z(t.h8),q,p
 var $async$Zk=A.a_(function(a,b){if(a===1)return A.W(b,r)
 while(true)switch(s){case 0:s=3
-return A.a1(A.aDO(A.jj("http://ransaapiecuador.azurewebsites.net/ConsultaPrincipal",0,null)),$async$Zk)
+return A.a1(A.aDO(A.jj("https://ransaapiecuador.azurewebsites.net/ConsultaPrincipal",0,null)),$async$Zk)
 case 3:p=b
 if(p.b===200){q=J.mk(t.j.a(B.ba.dK(0,A.aDB(A.aCo(p.e).c.a.h(0,"charset")).dK(0,p.w))),new A.asO(),t.ce).du(0)
 s=1
