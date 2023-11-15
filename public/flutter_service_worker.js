@@ -65,7 +65,7 @@ const RESOURCES = {"assets/AssetManifest.bin": "73aab6cf4cb33010edb3b3fb260f242d
 "assets/assets/SeguridadPG2.jpg": "9d7849a751495522ddfee1068a0534a2",
 "assets/assets/SeguridadPG8.jpg": "db9d312dbfa2ffd0d8dc58841dd41f22",
 "assets/FontManifest.json": "b19625d2d97624227d7c06202683e985",
-"assets/fonts/MaterialIcons-Regular.otf": "8bf4d08b8bce88ab47d071d4a49167a2",
+"assets/fonts/MaterialIcons-Regular.otf": "b27fdafdcd1ecd14afcfece50c4346ff",
 "assets/fonts/UniviaPro-Bold.ttf": "f231270a13f93ffcdea1ddc8aeab34bf",
 "assets/fonts/UniviaPro-Book.ttf": "0cc7a29b6d20f97480d411c0dab82f35",
 "assets/fonts/UniviaPro-Light.ttf": "58c30351f2d57d5f9c256b1a0457d533",
@@ -86,9 +86,9 @@ const RESOURCES = {"assets/AssetManifest.bin": "73aab6cf4cb33010edb3b3fb260f242d
 "icons/Icon-512.png": "b95a8cd34165266e2917b5d508557bdd",
 "icons/Icon-maskable-192.png": "24f1fbf8ea64744078b880f69329b237",
 "icons/Icon-maskable-512.png": "b95a8cd34165266e2917b5d508557bdd",
-"index.html": "0a0bbafc080063ca109b1c35b7afd459",
-"/": "0a0bbafc080063ca109b1c35b7afd459",
-"main.dart.js": "afff43e83d032d5f3bd18b58a78a7b5a",
+"index.html": "56f2371a8e08dda5a4d061c75bd0a40f",
+"/": "56f2371a8e08dda5a4d061c75bd0a40f",
+"main.dart.js": "ac74cb8d27afdd1e3d46785c1898a841",
 "manifest.json": "ba60c9b5154271a56ae344dfdf12c76c",
 "version.json": "a237903b204c8b99014064c54e00f2ec"};
 // The application shell files that are downloaded before a service worker can
